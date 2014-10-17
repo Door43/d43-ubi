@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ubi:home|Door43 (ubi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ubi|d43-ubi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ubi/archive/master.zip|d43-ubi.zip]]
+
+**Recent Changes**
+{{changes>ns = ubi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ubi|Ethnologue data]]
+
